@@ -58,8 +58,8 @@ export function SidebarMenu({ isOpen, onClose }: SidebarMenuProps) {
                   Instruções
                 </Text>
                 <Text fontSize={themeFonts.fontSizes.small}>
-                  A base científica do aplicativo{''}
-                  está toda aqui, confira!
+                A base científica do aplicativo
+                  <br />
                 </Text>
               </Flex>
 
