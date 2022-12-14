@@ -2,7 +2,7 @@ import Colagenase from '../assets/tratamentos/Colagenase.jpg';
 import espumas from '../assets/tratamentos/Espumas-de-poliuretano.jpg';
 import hidrocoloide from '../assets/tratamentos/hidrocoloide.jpg';
 import Hidrofibras from '../assets/tratamentos/Hidrofibras.jpg';
-import solucoes from '../assets/tratamentos/Malha de acetato impregnada com soluções.jpg';
+import solucoes from '../assets/tratamentos/Malha_de_acetato_impregnada_com_soluções.jpg';
 import Papaina from '../assets/tratamentos/Papaina.jpg';
 import silicone from '../assets/tratamentos/tela de silicone.png';
 import Cadexomero from '../assets/tratamentos_infeccao/Cadexomero de iodo.jpg';
