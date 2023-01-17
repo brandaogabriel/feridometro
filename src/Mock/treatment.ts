@@ -9,7 +9,7 @@ import larvaIcon from '../assets/larvaIcon.png';
 import mecanico from '../assets/mecanico.jpg';
 import papaina from '../assets/papaina.jpg';
 import Tecidodeepitelizacao from '../assets/Tecidodeepitelizacao.jpg';
-import Tecidodegranulacao from '../assets/Tecidodegranulacao.jpg';
+import Tecidodegranulacao from '../assets/Tecidogranulacao.jpg';
 
 export const treatmentMock = [
   {
