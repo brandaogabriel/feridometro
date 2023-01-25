@@ -38,7 +38,7 @@ export function HomePage() {
             srcImage={iIcon}
           />
           <Accordion
-            title="M - Umidade/Axsudato"
+            title="M - Umidade/Exsudato"
             linkName="Umidade"
             description="Objetivo: Controlar a umidade/exsudato da lesão."
             srcImage={mIcon}
